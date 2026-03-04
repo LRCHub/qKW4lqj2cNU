@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "ONE OK ROCK - NO SCARED [Official Music Video]",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-03-04T18:48:26.735768Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sonic Frontiers & ONE OK ROCK - \"Vandalize\" Music Video",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_Sonic_Frontiers_&_ONE_OK_ROCK_-__Vandalize__Music_Video_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - The Beginning [Official Video from \"EYE OF THE STORM\" JAPAN TOUR]",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_ONE_OK_ROCK_-_The_Beginning_[Official_Video_from__EYE_OF_THE_STORM__JAPAN_TOUR]_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - 69",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_ONE_OK_ROCK_-_69_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - Adult Suit",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_ONE_OK_ROCK_-_Adult_Suit_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - All Mine",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_ONE_OK_ROCK_-_All_Mine_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - Be the light",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_ONE_OK_ROCK_-_Be_the_light_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - Clock Strikes",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/07_ONE_OK_ROCK_-_Clock_Strikes_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - Deeper Deeper",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/08_ONE_OK_ROCK_-_Deeper_Deeper_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - Ending Story??",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/09_ONE_OK_ROCK_-_Ending_Story_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - Jibun ROCK",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/10_ONE_OK_ROCK_-_Jibun_ROCK_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - Juvenile",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/11_ONE_OK_ROCK_-_Juvenile_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Summer Paradise (feat. Taka from One OK Rock)",
+      "artist": "Simple Plan feat. Taka from ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/12_Summer_Paradise_(feat._Taka_from_One_OK_Rock)_Simple_Plan_feat._Taka_from_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Summer Paradise (feat. Taka from ONE OK ROCK)",
+      "artist": "Simple Plan/Taka from ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/13_Summer_Paradise_(feat._Taka_from_ONE_OK_ROCK)_Simple_Plan_Taka_from_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dreaming Alone (Featuring Taka From ONE OK ROCK)",
+      "artist": "Against The Current",
+      "has_synced": true,
+      "path": "select/14_Dreaming_Alone_(Featuring_Taka_From_ONE_OK_ROCK)_Against_The_Current.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Let Me Go (feat. Taka (One Ok Rock))",
+      "artist": "Goldfinger",
+      "has_synced": true,
+      "path": "select/15_Don't_Let_Me_Go_(feat._Taka_(One_Ok_Rock))_Goldfinger.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Summer Paradise (feat. Taka from One OK Rock)",
+      "artist": "Simple Plan; Taka from ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/16_Summer_Paradise_(feat._Taka_from_One_OK_Rock)_Simple_Plan;_Taka_from_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Somewhere I Belong (feat. Taka of One OK Rock)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/17_Somewhere_I_Belong_(feat._Taka_of_One_OK_Rock)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - C.h.a.o.s.m.y.t.h.",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/18_ONE_OK_ROCK_-_C.h.a.o.s.m.y.t.h._ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - Kanzen Kankaku Dreamer",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/19_ONE_OK_ROCK_-_Kanzen_Kankaku_Dreamer_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - NO SCARED",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/20_ONE_OK_ROCK_-_NO_SCARED_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NO SCARED",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_NO_SCARED_ONE_OK_ROCK.txt"
+    }
+  ]
+}
